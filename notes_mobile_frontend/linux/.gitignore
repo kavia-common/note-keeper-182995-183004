@@ -1,0 +1,5 @@
+# Flutter-related
+flutter/ephemeral/
+
+# CMake build directory
+build/
